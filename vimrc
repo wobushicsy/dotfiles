@@ -28,6 +28,7 @@ set showmatch
 set hlsearch
 set incsearch
 set ignorecase
+set smartcase
 
 " edit
 set noerrorbells
