@@ -35,3 +35,6 @@ set history=50
 set autoread
 set wildmenu
 
+" display
+set scrolloff=10
+
