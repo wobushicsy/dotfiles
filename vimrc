@@ -21,7 +21,6 @@ set softtabstop=2
 " appearance
 set wrap
 set linebreak
-set wrapmargin=2
 
 " search
 set showmatch
